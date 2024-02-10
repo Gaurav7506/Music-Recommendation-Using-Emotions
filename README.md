@@ -24,11 +24,9 @@ Flask:
 - Spotipy
 - Tkinter (For testing)
 - Flask
+# Output
 
-# Dataset:
-The dataset used for this project is the famous FER2013 dataset. Models trained on this dataset can classify 7 emotions. The dataset can be found <a href = "https://www.kaggle.com/msambare/fer2013">here</a>.
-
-Note that the dataset is highly imbalanced with happy class having maxiumum representation. This might be a factor resulting in okaysish accuracy after training.
+![Screenshot 2024-02-10 195410](https://github.com/Gaurav7506/Music-Recommendation-Using-Emotions/assets/130684251/c8583460-1833-482f-a303-fb955cbf7b9f)
 
 # Model Architecture:
 - The model architecture is a sequential model consisting of Conv2d, Maxpool2d, Dropout and Dense layers:
