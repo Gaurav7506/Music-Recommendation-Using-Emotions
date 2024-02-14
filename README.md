@@ -53,3 +53,4 @@ The entire project works perfectly fine. Live detection gives good frame rates d
 - index.html in 'templates' directory is the web page for the application. Basic HTML and CSS.
 - utils.py is an utility module for video streaming of web camera with threads to enable real time detection.
 - train.py is the script for image processing and training the model.
+..
