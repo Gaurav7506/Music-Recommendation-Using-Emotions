@@ -26,7 +26,7 @@ def getTrackFeatures(id):
     # length = track_info['duration_ms']
     # popularity = track_info['popularity']
 
-    track_data = [name, album, artist] #, release_date, length
+    track_data = [name, album, artist] #, release_date
     return track_data
 
 
