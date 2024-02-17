@@ -31,3 +31,5 @@ def gen_table():
 if __name__ == '__main__':
     app.debug = True
     app.run()
+
+def 
