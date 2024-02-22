@@ -56,4 +56,3 @@ emotion_model_info = emotion_model.fit_generator(
 
 emotion_model.save_weights('model.h5')
 
-d
